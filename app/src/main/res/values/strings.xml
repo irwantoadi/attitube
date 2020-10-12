@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Attitube</string>
+    <string name="masuk_ke_akun_saya">Masuk ke Akun Saya</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in_with_facebook">Log in with Facebook</string>
+    <string name="lupa_password">Lupa Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="koleksi">Koleksi</string>
+    <string name="kuis">Kuis</string>
+    <string name="beranda">Beranda</string>
+    <string name="konsultan">Konsultan</string>
+    <string name="profil">Profil</string>
+    <string name="ali_annisa_aku_jadi_anak_mandiri"><![CDATA[Ali & Annisa: Aku Jadi Anak Mandiri]]></string>
+    <string name="kisah_kancil_dan_buaya">Kisah Kancil dan Buaya</string>
+    <string name="bioskop_indonesia_petualangan_ujang">Bioskop Indonesia - Petualangan Ujang ...</string>
+    <string name="soal_berbicara_dengan_orang_tua_harus_dengan_sopan">Soal : Berbicara dengan orang tua harus dengan sopan ...</string>
+    <string name="room_chat">Room Chat</string>
+    <string name="yuk_belajar_lagi">Yuk Belajar Lagi</string>
+    <string name="selesai">Selesai</string>
+</resources>

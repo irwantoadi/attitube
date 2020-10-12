@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bglevel_kuis">
+    <!--    <TextView-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:text="fragment beranda"/>-->
+    <Button
+        android:id="@+id/btn_level_kuis"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/level_kuis"
+        android:contentDescription="TODO"
+        android:layout_marginTop="80dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:scaleType="fitStart"
+                android:src="@drawable/icon_app"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:scaleType="fitEnd"
+                android:src="@drawable/info"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
